@@ -41,7 +41,7 @@ a{
 
 .container{
     margin: 0 0;
-    padding: 0 5px;
+    padding: 0 0;
 }
 nav{
     display: flex;
